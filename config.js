@@ -59,14 +59,14 @@ global.ppulsa2 = '081352848936'
 global.psaweria = '"_"'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281542613150'
-global.nomorown = '6281251549899'
-global.namebot = 'DaniBoTz'
-global.nameown = 'DaniGanz'
+global.nomorbot = '6281358929103'
+global.nomorown = '6285749618902'
+global.namebot = 'Andhika'
+global.nameown = 'Andhika'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899'],
+  ['6285749618902', 'Andhika', true],
   ['6281251549899'],
   ['6281251549899', '⌬ DaniGanz', true]
   // [number, dia creator/owner?, dia developer?]
@@ -113,13 +113,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 DaniBoTz ⁩㊣ 」' //Main Watermark
+global.wm = '                「 𝗔𝗻𝗱𝗵𝗶𝗸𝗮𝗕𝗼𝘁 」' //Main Watermark
 global.wm2 = '꒷꒥꒷ ‧₊˚ ꒰ฅ˘Dani - Khun˘ฅ ꒱ ‧₊˚꒷꒥꒷'
-global.wm3 = '⫹⫺ Dani𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ 𝗔𝗻𝗱𝗵𝗶𝗸𝗮𝗕𝗼𝘁'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 DaniBoTz あ⁩ 」'
+global.author = '                「 𝗔𝗻𝗱𝗵𝗶𝗸𝗮𝗕𝗼𝘁 」'
 
 
 /*============== LOGO ==============*/
