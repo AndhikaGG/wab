@@ -45,30 +45,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = '"_"'
-global.sgh = 'https://github.com/Bot-Mdnew'
-global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://github.com/Bot-Mdnew'
+global.sgh = '"_"'
+global.sgc = 'https://chat.whatsapp.com/KHtibglKt6k7aqODPVMOhB'
+global.sdc = '"_"'
+global.snh = '"_"'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081352848936'
-global.psaweria = '"_"'
+global.pdana = '"_"'
+global.povo = '"_"'
+global.pgopay = '"_"'
+global.ppulsa = '6285749618902'
+global.ppulsa2 = '"_"'
+global.psaweria = 'https://saweria.co/andhikagg'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281358929103'
 global.nomorown = '6285749618902'
-global.namebot = 'Andhika'
+global.namebot = 'AndhikaBot'
 global.nameown = 'Andhika'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285749618902', 'Andhika', true],
-  ['6281251549899'],
-  ['6281251549899', '⌬ DaniGanz', true]
+  ['6285749618902'],
+  ['6285749618902'],
+  ['6285749618902', 'Andhika', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -118,7 +118,7 @@ global.wm2 = '꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝗔𝗻𝗱𝗵𝗶𝗸𝗮˘ฅ ꒱ �
 global.wm3 = '⫹⫺ 𝗔𝗻𝗱𝗵𝗶𝗸𝗮𝗕𝗼𝘁'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
+global.titlebot = `⫹⫺ 𝗔𝗻𝗱𝗵𝗶𝗸𝗮𝗕𝗼𝘁 | By ${global.nameown}`
 global.author = '                「 𝗔𝗻𝗱𝗵𝗶𝗸𝗮𝗕𝗼𝘁 」'
 
 
